@@ -47,11 +47,11 @@ window.onload = function() {
 
   clearCanvas();
 
-  for (var i = 0; i <= 1000; i += 10.3) {
-    length = (Math.random() + .1) *400;
-    ori = degToRad(i+ Math.random());
+  for (var i = 0; i <= 90; i += 10.3) {
+    length = (Math.random() + .1) *500;
+    ori = degToRad(360 * Math.random());
     beginPath();
-    var start = findFirst([400,300], length, ori).start; 
+    var start = findFirst([500,300], length, ori).start; 
     moveTo(start);
 console.log(start)
     var next = (function(c, l, orientation) {
@@ -89,7 +89,7 @@ console.log(start)
       },
       startAnimation = function startAnimation () {
         console.log('set Interval called');
-        intID = setInterval(drawTriangles, 200);
+        intID = setInterval(drawTriangles, 150);
       };
 
   document.getElementById('fractal').onclick = clearInt;
