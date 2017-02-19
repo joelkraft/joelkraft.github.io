@@ -1,0 +1,60 @@
+{
+    "frames": [
+        {
+            "frame": {"x":0,"y":0,"w":56,"h":52},
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {"x":0,"y":0,"w":56,"h":52},
+            "sourceSize": {"w":56,"h":52},
+            "pivot": {"x":0.5,"y":0.5}
+        },
+        {
+            "frame": {"x":56,"y":0,"w":56,"h":52},
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {"x":0,"y":0,"w":56,"h":52},
+            "sourceSize": {"w":56,"h":52},
+            "pivot": {"x":0.5,"y":0.5}
+        },
+        {
+            "frame": {"x":112,"y":0,"w":56,"h":52},
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {"x":0,"y":0,"w":56,"h":52},
+            "sourceSize": {"w":56,"h":52},
+            "pivot": {"x":0.5,"y":0.5}
+        },
+        {
+            "frame": {"x":168,"y":0,"w":56,"h":52},
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {"x":0,"y":0,"w":56,"h":52},
+            "sourceSize": {"w":56,"h":52},
+            "pivot": {"x":0.5,"y":0.5}
+        },
+        {
+            "frame": {"x":224,"y":0,"w":56,"h":52},
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {"x":0,"y":0,"w":56,"h":52},
+            "sourceSize": {"w":56,"h":52},
+            "pivot": {"x":0.5,"y":0.5}
+        },
+        {
+            "frame": {"x":280,"y":0,"w":56,"h":52},
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {"x":0,"y":0,"w":56,"h":52},
+            "sourceSize": {"w":56,"h":52},
+            "pivot": {"x":0.5,"y":0.5}
+        }
+    ],
+    "meta": {
+        "image": "loch_ness.png",
+        "size": {
+            "w": 336,
+            "h": 52
+        },
+        "scale": 1
+    }
+}
